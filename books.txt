@@ -1,0 +1,2 @@
+title: As Cronicas de Narnia, author: Cristovao Colombo, publishingCompany: Novatech, numberPages: 200
+title: O Caso do 5 Estrelas, author: Desconhecido, publishingCompany: Cultura, numberPages: 50
